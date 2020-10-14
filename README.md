@@ -11,6 +11,10 @@ If you are interested, please join our community!!
 - [Discord](https://discord.gg/6bPsm67)
 - [Telegram](https://t.me/PlasmOfficial)
 - [Forum](https://forum.plasmnet.io/)
+- [Documentation](https://docs.plasmnet.io)
+- [Web Page Company](https://stake.co.jp/en)
+- [Web Page Project](https://plasmnet.io)
+- [blog](https://medium.com/stake-technologies?source=post_page-----34e9ff07f2bd--------------------------------)
 
 **Gitcoin has integrated [Polkadot](https://polkadot.network/) and [Kusama](https://kusama.network/) tokens (DOT and KSM) into its tech stack**, making them one of the first full integrations outside of the Ethereum ecosystem.
 
