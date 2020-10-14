@@ -16,6 +16,7 @@ If you are interested, please join our community!!
 - [Web Page Project](https://plasmnet.io)
 - [blog](https://medium.com/stake-technologies?source=post_page-----34e9ff07f2bd--------------------------------)
 
+# Gitcoin Integration to Polkadot!
 **Gitcoin has integrated [Polkadot](https://polkadot.network/) and [Kusama](https://kusama.network/) tokens (DOT and KSM) into its tech stack**, making them one of the first full integrations outside of the Ethereum ecosystem.
 
 To celebrate the integration on Gitcoin, we are organizing **[Hello World! by Polkadot](https://gitcoin.co/hackathon/polkadot/)**, a series of challenges to bring you on a journey of Polkadot development discovery.
